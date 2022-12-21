@@ -7,6 +7,10 @@
         "dist",
         "src"
     ],
+    "repository": {
+        "url": "https://github.com/pekerleke00/ts-printer",
+        "type": "git"
+    },
     "engines": {
         "node": ">=10"
     },
@@ -57,5 +61,11 @@
         "tsdx": "^0.14.1",
         "tslib": "^2.4.1",
         "typescript": "^3.9.10"
-    }
+    },
+    "keywords": [
+        "typescript",
+        "log",
+        "console",
+        "print"
+    ]
 }
