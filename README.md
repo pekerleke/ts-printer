@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/pekerleke00/ts-printer/actions/workflows/main.yml/badge.svg)](https://github.com/pekerleke00/ts-printer/actions/workflows/main.yml)
 
-Welcome to TS Printer, a simple TypeScript library that allows you to print messages to the console log.
+Welcome to [TS Printer](https://www.npmjs.com/package/ts-printer), a simple TypeScript library that allows you to print messages to the console log.
 
 ## Installation
 To install TS Printer, you can use npm:
